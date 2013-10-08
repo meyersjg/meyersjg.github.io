@@ -3,18 +3,22 @@ h1 {
   font-size: 72px;
   color: #22ff1a;
   text-align: center;
+  text-shadow: 1px 1px 1px blue;
 }
 
 #me {font-family: arial;
       font-size: 30px;
-      text-align: center;}
+      text-align: center;
+      min-width: 1000px;}
 
 #link {font-family: arial;
         font-size: 28px;
         text-align: center;
         font-weight: bold;
         word-spacing: 1.2em;
-        padding-top: 20px;}
+        padding-top: 20px;
+        min-width: 1000px;
+}
 
 a:visited {color:blue;}
 a:link {text-decoration: none;}
@@ -22,4 +26,6 @@ a:hover {color: #22ff1a;}
 
 #day {font-family: arial;
       font-size: 20px;
-      padding: 10px;}
+      padding: 10px;
+      color: blue;
+      font-weight: bold;}
