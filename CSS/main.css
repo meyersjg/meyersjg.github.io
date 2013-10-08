@@ -1,0 +1,25 @@
+h1 {
+  font-family: arial;
+  font-size: 72px;
+  color: #22ff1a;
+  text-align: center;
+}
+
+#me {font-family: arial;
+      font-size: 30px;
+      text-align: center;}
+
+#link {font-family: arial;
+        font-size: 28px;
+        text-align: center;
+        font-weight: bold;
+        word-spacing: 1.2em;
+        padding-top: 20px;}
+
+a:visited {color:blue;}
+a:link {text-decoration: none;}
+a:hover {color: #22ff1a;}
+
+#day {font-family: arial;
+      font-size: 20px;
+      padding: 10px;}
