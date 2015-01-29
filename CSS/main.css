@@ -1,10 +1,10 @@
 body {
   background-color: #000;
-  font-family: 'Monospace';
+  font-family: 'monospace';
 }
 
 .me {
-  font-size: 38px;
+  font-size: 24px;
   text-align: center;
   min-width: 1070px;
   color: #00ff00;
@@ -12,12 +12,12 @@ body {
 
 #name {
   margin-top: 100px;
-  font-size: 50px;
+  font-size: 32px;
   color: #00ff00;
 }
 
 #link {
-  font-size: 28px;
+  font-size: 24px;
   text-align: center;
   font-weight: bold;
   word-spacing: 1.2em;
