@@ -1,12 +1,13 @@
 body {
   background-color: #000;
-  font-family: 'terminal';
+  font-family: 'Monospace';
 }
 
 .me {
   font-size: 38px;
   text-align: center;
   min-width: 1070px;
+  color: #00ff00;
 }
 
 #name {
