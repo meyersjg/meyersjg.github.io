@@ -4,10 +4,13 @@ body {
   color: #00ff00;
 }
 
+.container {
+  width: 400px;
+}
+
 .me {
   font-size: 24px;
   text-align: left;
-  max-width: 400px;
   margin: 0 auto;
 }
 
@@ -20,7 +23,6 @@ body {
   font-size: 24px;
   text-align: left;
   padding-top: 50px;
-  max-width: 400px;
   margin: 0 auto;
 }
 
