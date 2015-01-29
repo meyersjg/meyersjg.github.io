@@ -5,9 +5,8 @@ body {
 }
 
 .container {
-  /*width: 800px;*/
-  margin: 0 auto;
   padding-top: 80px;
+  text-align: center;
 }
 
 .me {
@@ -15,7 +14,7 @@ body {
   text-align: left;
   display: inline-block;
   width: 400px;
-  height: 200px;
+  height: 135px;
   vertical-align: top;
 }
 
@@ -28,7 +27,7 @@ body {
   font-size: 24px;
   text-align: right;
   display: inline-block;
-  height: 200px;
+  height: 135px;
   vertical-align: top;
   margin-right: 30px;
   padding-right: 30px;
@@ -51,5 +50,5 @@ a:active {
 }
 
 a:first-of-type {
-  padding-top: 50px;
+  padding-top: 35px;
 }
