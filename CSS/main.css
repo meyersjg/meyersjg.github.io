@@ -9,12 +9,16 @@ body {
   margin: 0 auto;
 }
 
+.container .div {
+  height: 200px;
+  vertical-align: top;
+}
+
 .me {
   font-size: 24px;
   text-align: left;
   display: inline-block;
   width: 400px;
-  float: left;
 }
 
 .name {
@@ -23,9 +27,8 @@ body {
 
 .link {
   font-size: 24px;
-  text-align: left;
+  text-align: right;
   display: inline-block;
-  float: left;
 }
 
 a {
