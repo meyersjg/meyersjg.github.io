@@ -1,5 +1,5 @@
 body {
-  background-color: #ECD8F9;
+  background-color: #000;
   font-family: 'terminal';
 }
 
@@ -12,6 +12,7 @@ body {
 #name {
   margin-top: 100px;
   font-size: 50px;
+  color: #00ff00;
 }
 
 #link {
