@@ -31,7 +31,7 @@ a {
   color: #00ff00;
 }
 
-a:nth-of-type(2) {
+a:first-of-type {
   margin-right: 70px;
 }
 
