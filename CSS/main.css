@@ -5,8 +5,9 @@ body {
 
 .me {
   font-size: 24px;
-  text-align: center;
-  min-width: 1070px;
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
   color: #00ff00;
 }
 
