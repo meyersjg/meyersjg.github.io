@@ -1,6 +1,7 @@
 body {
   background-color: #000;
   font-family: 'Courier';
+  color: #00ff00;
 }
 
 .me {
@@ -8,36 +9,27 @@ body {
   text-align: left;
   max-width: 400px;
   margin: 0 auto;
-  color: #00ff00;
 }
 
 #name {
   margin-top: 100px;
   font-size: 32px;
-  color: #00ff00;
 }
 
 #link {
   font-size: 24px;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   word-spacing: 1.2em;
   padding-top: 150px;
-  min-width: 1070px;
+  max-width: 400px;
 }
 
-a:link {
+a {
   text-decoration: none;
+  display: block;
 }
 
 a:hover {
-  color: #22ff1a;
-}
-
-#day {
-  font-family: arial;
-  font-size: 20px;
-  padding: 10px;
   color: blue;
-  font-weight: bold;
-    }
+}
