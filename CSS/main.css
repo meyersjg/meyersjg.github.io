@@ -1,9 +1,9 @@
 body {
   background-color: #ECD8F9;
+  font-family: 'terminal';
 }
 
 .me {
-  font-family: arial;
   font-size: 38px;
   text-align: center;
   min-width: 1070px;
@@ -15,7 +15,6 @@ body {
 }
 
 #link {
-  font-family: arial;
   font-size: 28px;
   text-align: center;
   font-weight: bold;
