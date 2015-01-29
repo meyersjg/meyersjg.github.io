@@ -42,11 +42,12 @@ a {
 }
 
 a:hover {
-  color: #0000ff;
+  text-decoration: underline;
 }
 
 a:active {
-  color: #0080ff;
+  color: #0000ff;
+  /*color: #0080ff;*/
 }
 
 a:first-of-type {
