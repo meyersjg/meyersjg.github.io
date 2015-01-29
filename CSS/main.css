@@ -20,14 +20,15 @@ body {
   font-size: 24px;
   text-align: left;
   font-weight: bold;
-  word-spacing: 1.2em;
   padding-top: 150px;
   max-width: 400px;
+  margin: 0 auto;
 }
 
 a {
   text-decoration: none;
   display: block;
+  padding: 10px;
 }
 
 a:hover {
