@@ -47,9 +47,8 @@ a:hover {
 
 a:active {
   color: #0000ff;
-  /*color: #0080ff;*/
 }
 
 a:first-of-type {
-  padding-top: 35px;
+  margin-top: 35px;
 }
