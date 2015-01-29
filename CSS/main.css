@@ -39,5 +39,9 @@ a:first-of-type {
 }
 
 a:hover {
-  color: blue;
+  color: #ff0000;
+}
+
+a:active {
+  color: #0000ff;
 }
