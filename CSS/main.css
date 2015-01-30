@@ -63,6 +63,7 @@ body {
     border-right: none;
     padding-bottom: 30px;
     margin-bottom: 30px;
+    height: auto;
   }
 
   .link a {
